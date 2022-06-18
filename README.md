@@ -1,23 +1,23 @@
 # Huffman-Coding
-## Aim
+# AIM:
 To implement Huffman coding to compress the data using Python.
 
-## Software Required
+## SOFTWARE REQUIRED:
 1. Anaconda - Python 3.7
 
-## Algorithm:
-### Step 1:
+## ALGORITHM:
+## STEP 1:
 Get the input String.
-### Step 2:
+## STEP 2:
 Create tree nodes.
-### Step 3:
+## STEP 3:
 Main function to implement huffman coding.
-### Step 4:
+## STEP 4:
 Calculate frequency of occurrence.
-### Step 5:
+## STEP 5:
 Print the characters and its huffmancode.
 
-## Program:
+# PROGRAM:
 ```
 PROGRAM DEVELOPED BY: R.SOMEASVAR
 REGISTER NUMBER: 212221230103
@@ -68,10 +68,10 @@ print('----------------------')
 for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
  ```
-## Output:
-### Print the characters and its huffmancode
+# OUTPUT:
+## Print the characters and its huffmancode
 ![1](https://user-images.githubusercontent.com/93434149/174420236-e6943b62-d9f6-47ae-ac6d-26946647374a.jpg)
 
 
-## Result
+# RESULT:
 Thus the huffman coding was implemented to compress the data using python programming.
