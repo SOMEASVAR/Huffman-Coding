@@ -23,8 +23,7 @@ PROGRAM DEVELOPED BY: R.SOMEASVAR
 REGISTER NUMBER: 212221230103
 ```
 ```
-# Get the input String
-string = 'from robomaster import robot'
+string = 'welcome to chennai people'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -67,10 +66,11 @@ print(' Char | Huffman code ')
 print('----------------------')
 for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
- ```
+```
 # OUTPUT:
 ## Print the characters and its huffmancode
-![1](https://user-images.githubusercontent.com/93434149/174420236-e6943b62-d9f6-47ae-ac6d-26946647374a.jpg)
+![Screenshot 2022-06-18 122603](https://user-images.githubusercontent.com/93434149/174426694-4d5e5e51-62e6-40d7-8d80-dbd865fe15a8.jpg)
+
 
 
 # RESULT:
