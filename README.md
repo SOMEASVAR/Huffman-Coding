@@ -6,15 +6,15 @@ To implement Huffman coding to compress the data using Python.
 1. Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1:
+### Step 1:
 Get the input String.
-### Step2:
+### Step 2:
 Create tree nodes.
-### Step3:
+### Step 3:
 Main function to implement huffman coding.
-### Step4:
+### Step 4:
 Calculate frequency of occurrence.
-### Step5:
+### Step 5:
 Print the characters and its huffmancode.
 
 ## Program:
@@ -70,7 +70,7 @@ for (char, frequency) in freq:
  ```
 ## Output:
 ### Print the characters and its huffmancode
-![inp]![1](https://user-images.githubusercontent.com/93434149/174420236-e6943b62-d9f6-47ae-ac6d-26946647374a.jpg)
+![1](https://user-images.githubusercontent.com/93434149/174420236-e6943b62-d9f6-47ae-ac6d-26946647374a.jpg)
 
 
 ## Result
