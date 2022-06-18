@@ -2,10 +2,10 @@
 # AIM:
 To implement Huffman coding to compress the data using Python.
 
-## SOFTWARE REQUIRED:
+# SOFTWARE REQUIRED:
 1. Anaconda - Python 3.7
 
-## ALGORITHM:
+# ALGORITHM:
 ## STEP 1:
 Get the input String.
 ## STEP 2:
